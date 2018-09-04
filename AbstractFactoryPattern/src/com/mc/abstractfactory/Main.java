@@ -1,5 +1,10 @@
 package com.mc.abstractfactory;
 
+import com.mc.abstractfactory.color.Color;
+import com.mc.abstractfactory.factory.AbstractFactory;
+import com.mc.abstractfactory.factory.FactoryProducer;
+import com.mc.abstractfactory.shape.Shape;
+
 public class Main {
 
     public static void main(String[] args) {

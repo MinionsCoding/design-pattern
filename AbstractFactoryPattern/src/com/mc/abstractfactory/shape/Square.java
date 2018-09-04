@@ -1,4 +1,6 @@
-package com.mc.abstractfactory;
+package com.mc.abstractfactory.shape;
+
+import com.mc.abstractfactory.shape.Shape;
 
 /**
  * Created by huangying on 2018/9/4.

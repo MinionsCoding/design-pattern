@@ -1,4 +1,11 @@
-package com.mc.abstractfactory;
+package com.mc.abstractfactory.factory;
+
+import com.mc.abstractfactory.color.Color;
+import com.mc.abstractfactory.factory.AbstractFactory;
+import com.mc.abstractfactory.shape.Circle;
+import com.mc.abstractfactory.shape.Rectangle;
+import com.mc.abstractfactory.shape.Shape;
+import com.mc.abstractfactory.shape.Square;
 
 /**
  * Created by huangying on 2018/9/4.
